@@ -3,7 +3,7 @@
 ## The links for my Project
 [github page](https://github.com/Maha-Abdelnabi/Work-Day-Scheduler)
 
-[deployed webpage](https://maha-abdelnabi.github.io/Generate-Password/)
+[deployed webpage](https://maha-abdelnabi.github.io/Work-Day-Scheduler/)
 
 # Descripton
 this is a work day scheduler project as a bootcamp student.
