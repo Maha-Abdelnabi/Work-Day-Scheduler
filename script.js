@@ -1,6 +1,6 @@
 //select elements
 var currentDay = document.getElementById("currentDay");
-currentDay.innerHTML = dayjs().format("dddd, MMMM D");
+currentDay.innerHTML = dayjs().format("dddd, MMMM D, YYYY");
 
 //main funtion
 function schedulePlan(){
